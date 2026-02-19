@@ -1,7 +1,7 @@
 # Hello, I am Ayumi ₍^. .^₎Ⳋ
 I'm a third-year Applied Data Science & AI student at Breda University of Applied Sciences, currently doing an AI internship at Achmea. My background spans data science, business, and media production, which gives me a broad perspective on building practical AI solutions.
 
-I enjoy working on projects that sit at the intersection of data engineering and machine learning — from building ETL pipelines and dashboards to deploying models in real-world settings. Outside of tech, I'm fascinated by neuroscience, aerospace, and astronomy — I like understanding things from the ground up.
+I enjoy working on projects that sit at the intersection of data engineering and machine learning, from building ETL pipelines and dashboards to deploying models in real-world settings. Outside of tech, I'm fascinated by neuroscience, aerospace, and astronomy.
 
 📁 Check out my portfolio for a closer look at my work: [portfolio](https://ayumicho.vercel.app/)
 
@@ -23,5 +23,5 @@ PostgreSQL, MinIO, Azure ML
 Git, Docker, Postman, Linux
 
 **Other**:
-ETL pipeline development, REST API design, data visualisation, machine learning model deployment
+ETL pipeline development, REST API design, data visualisation, and machine learning model deployment
 
