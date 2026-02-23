@@ -20,7 +20,7 @@ Flask, Pandas, NumPy, scikit-learn, Transformers (HuggingFace)
 PostgreSQL, MinIO, Azure ML
 
 **Tools & Platforms**:
-Git, Docker, Postman, Linux
+Git, Docker
 
 **Other**:
 ETL pipeline development, REST API design, data visualisation, and machine learning model deployment
